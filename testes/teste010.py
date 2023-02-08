@@ -1,0 +1,8 @@
+f2=str('   Maio e Abril  ')
+print(f2.strip())
+print(f2.rstrip())
+print(f2.lstrip())
+print(f2.split())
+print(len(f2.strip()))
+print(f2.replace('Maio','Android'))
+print('Maio'in f2)
