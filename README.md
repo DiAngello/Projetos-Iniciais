@@ -1,3 +1,3 @@
 # Projetos-Iniciais
 
-Ropositório para alguns Projetos inicias
+Ropositório para alguns Projetos iniciais
