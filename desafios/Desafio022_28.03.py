@@ -1,0 +1,7 @@
+nome=str(input('Digite seu nome completo: '))
+print('O nome maiúsculo fica: {}'.format(nome.upper()))
+print('O nome em minúsculo fica: {}'.format(nome.lower()))
+n1=nome.replace(" ","")
+print(len(n1))
+n2=nome.split()
+print(len(n2[0]))
