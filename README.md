@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/DiAngello/Python_Curso-em-video">
-    <img src="" alt="Logo" >  </a>
+    <img src="https://github.com/DiAngello/Python_Curso-em-video/blob/main/python_logo.png" width=120 alt="Logo" >  </a>
 
   <h3 align="center">Desafios do Curso de Python - Curso em Vídeo</h3>
 
